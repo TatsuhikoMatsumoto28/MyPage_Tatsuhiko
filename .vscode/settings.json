@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "HomePage_TatsuhikoMatsumoto",
+    "id": "66c9c661353e70a461d47c5e",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "/Users/mat/Documents/HomePage/src/components",
+    "screensPath": "/Users/mat/Documents/HomePage/src/pages"
+  }
+}

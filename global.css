@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-biz-udgothic: "BIZ UDGothic";
+  --single-line-body-base: Inter;
+
+  /* font sizes */
+  --single-line-body-base-size: 16px;
+
+  /* Colors */
+  --background-default-default: #fff;
+  --color-black: #000;
+  --border-default-default: #d9d9d9;
+  --text-default-default: #1e1e1e;
+  --color-darkgray: #9f9f9f;
+
+  /* Spacing */
+  --space-200: 8px;
+  --radius-full: 9999px;
+  --space-400: 16px;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+  --padding-base: 16px;
+  --padding-10xs: 3px;
+  --padding-267xl: 286px;
+
+  /* Border radiuses */
+  --br-9980xl: 9999px;
+  --br-6xs: 7px;
+  --br-xl: 20px;
+}
