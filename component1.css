@@ -1,0 +1,10 @@
+.div4 {
+  width: 397px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-biz-udgothic);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  height: 175px;
+}

@@ -1,0 +1,9 @@
+.b4 {
+  width: 192px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-biz-udgothic);
+  color: var(--color-white);
+  text-align: left;
+}

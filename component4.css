@@ -1,0 +1,17 @@
+.p25 {
+  font-size: var(--font-size-xl);
+}
+.p25,
+.p26 {
+  margin: 0;
+}
+.div6 {
+  width: 405px;
+  position: relative;
+  font-family: var(--font-biz-udgothic);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  height: 175px;
+  font-size: var(--font-size-xs);
+}
